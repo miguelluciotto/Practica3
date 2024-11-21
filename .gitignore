@@ -1,0 +1,8 @@
+# Venv
+*.env
+# Unrelated files
+*.png
+*.jpg
+# Temporal files
+tmp/
+*.o
