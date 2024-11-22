@@ -3,6 +3,8 @@
 # Unrelated files
 *.png
 *.jpg
+*.jpeg
+*.pdf
 # Temporal files
 tmp/
 *.o
